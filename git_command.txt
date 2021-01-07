@@ -1,0 +1,21 @@
+pull
+git pull origin master
+
+push
+git status
+git add .
+git commit -m "message"
+git push origin "master
+
+
+git init
+git remote add origin "repository adress"
+
+
+
+01. GitBash 설치
+     https://gitforwindows.org/
+02. New Repository 생성
+     https://github.com/ "회원가입 필수"
+03. Root Folder 연결
+     Web상의 Git과 연결될 Local Folder
