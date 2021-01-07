@@ -16,6 +16,7 @@ git remote add origin "repository adress"
 01. GitBash 설치
      https://gitforwindows.org/
 02. New Repository 생성
-     https://github.com/ "회원가입 필수"
+     https://github.com/ "회원가입 필수"gi
 03. Root Folder 연결
      Web상의 Git과 연결될 Local Folder
+04. download     
